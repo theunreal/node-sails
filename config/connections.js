@@ -45,7 +45,8 @@ module.exports.connections = {
      host: 'us-cdbr-iron-east-03.cleardb.net',
      user: 'bb447b782387de', //optional
      password: '5bda4820', //optional
-     database: 'heroku_153d23e83c0162e' //optional
+     database: 'heroku_153d23e83c0162e', //optional,
+     ssl: true
    },
 
   /***************************************************************************
